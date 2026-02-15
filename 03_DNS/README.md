@@ -67,7 +67,7 @@ In a DevOps role, understanding DNS is crucial because it affects:
 
 #### DNS is fundamental for:
 
-Routing traffic to the correct servers
+Routing traffic to the correct servers.
 
 Automating deployments in DevOps pipelines
 
