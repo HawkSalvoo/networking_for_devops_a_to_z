@@ -380,3 +380,11 @@ Each subnet:
 ✅ Private IPs are for internal networks  
 ✅ Public IPs are for internet communication  
 ✅ Subnetting helps organize and secure networks 
+
+---
+
+*Last Updated: 2024*  
+*Author: SalvatoreOps*  
+*License: Public Domain / Free to share*
+
+---
