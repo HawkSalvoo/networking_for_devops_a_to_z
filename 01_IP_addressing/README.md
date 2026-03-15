@@ -379,7 +379,7 @@ Each subnet:
 ✅ IP addresses identify devices on a network  
 ✅ Private IPs are for internal networks  
 ✅ Public IPs are for internet communication  
-✅ Subnetting helps organize and secure networks 
+✅ Subnetting helps organize and secure networks.
 
 ---
 

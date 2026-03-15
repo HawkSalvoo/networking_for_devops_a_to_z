@@ -76,3 +76,11 @@ Ensuring service reliability and availability
 Managing cloud infrastructure effectively
 
 A strong understanding of DNS is a must-have skill for DevOps engineers.
+
+---
+
+*Last Updated: 2024*  
+*Author: SalvatoreOps*  
+*License: Public Domain / Free to share*
+
+---

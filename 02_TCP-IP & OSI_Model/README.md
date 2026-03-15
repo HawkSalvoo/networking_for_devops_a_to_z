@@ -210,5 +210,11 @@ Physical (1)      ========================> Physical (1)
 ✅ Understanding layers helps debug network issues
 ✅ Most DevOps work happens at Layer 4 (Transport) and Layer 7 (Application).
 
+---
 
+*Last Updated: 2024*  
+*Author: SalvatoreOps*  
+*License: Public Domain / Free to share*
+
+---
 
